@@ -9,7 +9,7 @@
 🤝 I’m looking for help with Advanced Backend Architecture & Scalable Systems  
 🌱 I’m currently learning Advanced React, Node.js, Express & MongoDB  
 💬 Ask me about Web Development, REST APIs, React, Node.js & Database Design  
-- 📫 How to reach me: [peelavamsi147@gmail.com@gmail.com](mailto:peelavamsi147@gmail.com@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vamsi-peela)
+📫 How to reach me: [peelavamsi147@gmail.com@gmail.com](mailto:peelavamsi147@gmail.com@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vamsi-peela)
 😄 Pronouns: He/Him  
 
 ---

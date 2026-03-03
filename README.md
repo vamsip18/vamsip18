@@ -1,55 +1,64 @@
-### 👋 Hi, I’m @vamsi
-
-- 👀 I’m interested in full-stack web development, open-source projects, and learning new technologies.
-- 🌱 I’m currently learning advanced React, Express.js, and backend development with Node.js & MongoDB.
-- 💞 I’m looking to collaborate on web applications, open-source projects, and anything JavaScript-related.
-- 📫 How to reach me: [peelavamsi147@gmail.com@gmail.com](mailto:peelavamsi147@gmail.com@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vamsi-peela)
-- 😄 Pronouns: He/Him
+<h1 align="center">Hi 👋, I'm Vamsi Peela</h1>
+<h3 align="center">Full Stack Developer | React & Node.js Enthusiast 🚀</h3>
 
 ---
 
-## 🔗 Let's Connect
+# 💫 About Me:
+🔭 I’m currently focused on Full-Stack Web Development  
+👯 I’m looking to collaborate on Web Applications & Open Source Projects  
+🤝 I’m looking for help with Advanced Backend Architecture & Scalable Systems  
+🌱 I’m currently learning Advanced React, Node.js, Express & MongoDB  
+💬 Ask me about Web Development, REST APIs, React, Node.js & Database Design  
+📫 How to reach me: **peelavamsi147@gmail.com**  
+😄 Pronouns: He/Him  
+
+---
+
+## 🌐 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vamsi-peela)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:peelavamsi147@gmail.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:peelavamsi147@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/vamsipeela)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/vamsi-63/)
 
 ---
 
-## 🛠 Languages & Tools
+# 💻 Tech Stack:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-</div>
-
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vamsip18&show_icons=true&theme=tokyonight)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=vamsip18&theme=tokyonight)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsip18&layout=compact&theme=tokyonight)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-<!---
-Vamsi Peela is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=vamsip18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=vamsip18&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsip18&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=vamsip18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=vamsip18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---

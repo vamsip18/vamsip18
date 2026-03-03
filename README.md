@@ -51,10 +51,19 @@
 
 # 📊 GitHub Stats
 
-## 🔥 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vamsip18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
 
----
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vamsip18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vamsip18&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vamsip18&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+
+</p>
 
 ## 🔥 GitHub Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=vamsip18&theme=tokyonight&hide_border=true)

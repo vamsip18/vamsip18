@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamsi Peela</h1>
-<h3 align="center">Full Stack Developer | MERN Enthusiast 🚀</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications 🚀</h3>
 
 ---
 
@@ -64,11 +64,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vamsip18&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
 </p>
-
-## 🔥 GitHub Streak
-![](https://nirzak-streak-stats.vercel.app/?user=vamsip18&theme=tokyonight&hide_border=true)
-
----
-
-## 💻 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsip18&theme=tokyonight&hide_border=true&layout=compact)

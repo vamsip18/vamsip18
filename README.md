@@ -47,3 +47,19 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+# 📊 GitHub Stats
+
+## 🔥 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=vamsip18&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+## 🔥 GitHub Streak
+![](https://nirzak-streak-stats.vercel.app/?user=vamsip18&theme=tokyonight&hide_border=true)
+
+---
+
+## 💻 Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsip18&theme=tokyonight&hide_border=true&layout=compact)

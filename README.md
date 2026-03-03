@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @vamsip18
+### 👋 Hi, I’m @vamsi
 
 - 👀 I’m interested in full-stack web development, open-source projects, and learning new technologies.
 - 🌱 I’m currently learning advanced React, Express.js, and backend development with Node.js & MongoDB.

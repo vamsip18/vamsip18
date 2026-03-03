@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamsi Peela</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications 🚀</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications </h3>
 
 ---
 
@@ -9,7 +9,7 @@
 🤝 I’m looking for help with Advanced Backend Architecture & Scalable Systems  
 🌱 I’m currently learning Advanced React, Node.js, Express & MongoDB  
 💬 Ask me about Web Development, REST APIs, React, Node.js & Database Design  
-📫 How to reach me: **peelavamsi147@gmail.com**  
+- 📫 How to reach me: [peelavamsi147@gmail.com@gmail.com](mailto:peelavamsi147@gmail.com@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vamsi-peela)
 😄 Pronouns: He/Him  
 
 ---
@@ -32,16 +32,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
